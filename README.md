@@ -14,7 +14,7 @@ An exhaustive assmebler of data from a match it is not, but as a tool for seeing
 
 In this example, the script is set up to scrape games from the World Cup 2018 qualfication campaign in which Timor used Brazilian players.
 
-Once collated and analysed,  <a href="https://plotly.com/~constituentanalytics/77/" target="_blank">I produced the following Sankey diagram using Plotly</a>.
+Once collated and analysed,  <a href="https://plotly.com/~constituentanalytics/77/" target="_blank">I produced the following Sankey diagram using Plotly</a>. A Jupyter Notepad workbook outlining how this was programattically built is also included.
 
  <div>
       <a href="https://plotly.com/~constituentanalytics/77/" target="_blank" title="TimorSankey660x500" style="display: block; text-align: center;">
